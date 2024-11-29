@@ -10,8 +10,8 @@ I am a sophomore Computer Science and Math double major at Texas Christian Unive
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/oleh-zubariev" target="blank"><img align="center" src="https://cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/oleh_zubariev/)" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/i/93/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oleh-zubariev" target="blank"><img align="center" src="https://cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/oleh_zubariev" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/i/93/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ---
