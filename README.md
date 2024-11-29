@@ -9,7 +9,7 @@ I am a sophomore Computer Science and Math double major at Texas Christian Unive
 ⚡ Fun fact: I love collecting colorful socks
 
 
-
+[![MasterHead](header.png)](https://github.com/olehzu)
 
 <!--
 **olehzu/olehzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
