@@ -3,8 +3,12 @@
 I am a sophomore Computer Science and Math double major at Texas Christian University🐸🟣. I love learning more about coding through personal projects and I'm always excited to take on new challenges. 
 
 🔭 I’m currently working on a web design project for a nonprofit "Indigenous Institute of the Americas"
+
 ⛅ I've recently posted my first Android App "WeatherNOW". Make sure to check it out!
+
 ⚡ Fun fact: I love collecting colorful socks
+
+
 
 
 <!--
