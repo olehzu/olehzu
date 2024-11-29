@@ -1,5 +1,7 @@
 ## Hi there, I'm Oleh Zubariev 👋
 
+[![MasterHead](header.png)](https://github.com/olehzu)
+
 I am a sophomore Computer Science and Math double major at Texas Christian University🐸🟣. I love learning more about coding through personal projects and I'm always excited to take on new challenges. 
 
 🔭 I’m currently working on a web design project for a nonprofit "Indigenous Institute of the Americas"
@@ -8,8 +10,6 @@ I am a sophomore Computer Science and Math double major at Texas Christian Unive
 
 ⚡ Fun fact: I love collecting colorful socks
 
-
-[![MasterHead](header.png)](https://github.com/olehzu)
 
 <!--
 **olehzu/olehzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
